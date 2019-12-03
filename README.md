@@ -1,5 +1,14 @@
 # ngrx8-seed
 
+This is a LITE altenative ngrx8 with Angular8 seed.
+
+#### Please have a look at the other seeds (just in case):
+- ngrx8-seed (you are here): https://github.com/leolanese/ngrx8-seed
+- ATS-seed: https://github.com/leolanese/ATS-seed
+- ngrx8-angular8-seed: https://github.com/leolanese/ngrx8-angular8-seed
+- Angular8-seed: https://github.com/leolanese/ngrx8-seed
+
+---
 
 # TestApp
 
