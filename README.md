@@ -1,6 +1,6 @@
 # ngrx8-seed
 
-This is a LITE altenative ngrx8 with Angular8 seed.
+This is a LITE altenative ngrx8 with Angular8 seed. Other seed contain some extra dependencies already install in the project to help to save some valuable development time.
 
 #### Please have a look at the other seeds (just in case):
 - ngrx8-seed (you are here): https://github.com/leolanese/ngrx8-seed
